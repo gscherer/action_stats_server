@@ -3,7 +3,7 @@ package main
 import (
     "fmt"
     "flag"
-    "github.com/gscherer/action_stats/action_stats"
+    "github.com/gscherer/action_stats"
 )
 
 func main() {
