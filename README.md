@@ -100,8 +100,8 @@ Content-Length: 58
 {"error":"Bad Request","message":"Invalid action or time"}
 ```
 
-## TODOs and Limitations
+# TODOs and Limitations
 
 - Add rate limiting
 - Account for potentially malicious or large payloads
-- Add graceful shutdown or command utility for controller the server
+- Add graceful shutdown or command utility for controlling the server
